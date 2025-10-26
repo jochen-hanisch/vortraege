@@ -4,7 +4,6 @@ title: "Systemische Kompetenzentwicklung für High Responsibility Teams: Eine fu
 date: 2025-04-13
 updated: 2025-04-30
 publish: true
-GPT: false
 publishd: 2025-04-30
 tags:
   - "#systemtheorie"
@@ -15,10 +14,10 @@ tags:
   - "#highresponsibilityteams"
   - "#prüfungsdidaktik"
   - "#lernverläufe"
-status: post
+GPT: false
 ---
 
-created: 13.4.2025 | updated: 30.4.2025 | [publishd](https://zenodo.org/records/15384253): | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
+created: 13.4.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/vortraege): 30.4.2025 | [publishd](https://zenodo.org/records/15384253): 30.4. 2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
 
 # Ringvorlesung Rettungswissenschaften 2025
 
@@ -264,7 +263,7 @@ Systemisch-konstruktivistisch ist Absicht oder Ziel irrelevant (Wirkungsorientie
 
 ### Kompetenzdefinition High Responsibility Teams
 
->„Kompetenz im Kontext von High Responsibility Teams ist die individuelle Bereitschaft, Operationen auf ausbildungsrechtlichen Grundlagen zu planen, deren Wirkung zu angemessenem und brauchbarem Handeln führt, um Transformationsbarrieren vom unerwünschten zum erwünschten Zustand zu überwinden.“ _(Hanisch, 2023)_
+>„Kompetenz im Kontext von High Responsibility Teams ist die individuelle Bereitschaft, Operationen auf ausbildungsrechtlichen Grundlagen zu planen, deren Wirkung zu angemessenem und brauchbarem Handeln führt, um Transformationsbarrieren vom unerwünschten zum erwünschten Zustand zu überwinden.“ (Hanisch, 2023)
 
 **Prämissen**
 
@@ -405,14 +404,14 @@ Die folgenden Darstellungen wurden automatisiert aus dem Modell *Simulation Bild
 
 # Quelle(n)
 
-|                                                                                                                                                   |                                                                                                                                                                                                               |                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Arnold, R. (2010). *Systemische Berufsbildung: Kompetenzentwicklung im Kontext von Arbeit, Technik und Bildung*. Schneider Verlag Hohengehren.    | Arn, C., & Munsch, J.-P. (2022). Entwicklungsorientierung: Paradigmenwechsel im Bildungsdiskurs. In H. Burk & B. Stalder (Hrsg.), *Professionalisierung in der beruflichen Bildung*. Beltz Juventa.           | Bateson, G. (1972). *Steps to an ecology of mind*. Chandler.                                                                                       |
-| Bendel, P. D. O. (2021). Definition: VUCA. In *Gabler Wirtschaftslexikon*. Springer.                                                              | Erpenbeck, J., & Rosenstiel, L. v. (Hrsg.). (2007). *Handbuch Kompetenzmessung*. Schäffer-Poeschel.                                                                                                           | Erpenbeck, J., & Sauter, W. (2019). *Stoppt die Kompetenzkatastrophe!: Wege in eine neue Bildung*. Springer.                                       |
-| Grüning, D. J., & Lechner, C. M. (2022). 5DCR – Die Fünf-Dimensionen-Neugierskala. In *ZIS – Zentrale Informationsstelle sozialer Indikatoren*.   | Hagemann, V. (2011). *Trainingsentwicklung für High Responsibility Teams*. Universität Duisburg-Essen.                                                                                                        | Hanisch, J. (2020). *Notfallsanitäter – Systemische Interventionskompetenz in dynamischen Einsatzlagen*. GRIN Verlag.                              |
-| Hanisch, J. (2023). *Agiles Lernen in High Responsibility Teams: Simulationsbasierte Kompetenzentwicklung*. GRIN Verlag.                          | Kauffeld, S. (2021). Konstruktion und Überprüfung des Kompetenz-Reflexions-Inventars (KRI). *Gruppe. Interaktion. Organisation. Zeitschrift für Angewandte Organisationspsychologie (GIO)*, *52*(2), 289–310. | Klieme, E., Hartig, J., & Rauch, D. (2003). *Kompetenzmodelle zur Entwicklung von Bildungsstandards*. Bundesministerium für Bildung und Forschung. |
-| Luhmann, N. (1984). *Soziale Systeme: Grundriß einer allgemeinen Theorie*. Suhrkamp.                                                              | Mertens, D., & Erpenbeck, R. (1997). *Die Kompetenz des Managements: Erfolgreich führen durch persönliche, soziale, fachliche und methodische Kompetenzen*. Moderne Industrie.                                | Simon, F. B. (2001). *Einführung in die systemische Organisationstheorie*. Carl-Auer Verlag.                                                       |
-| Verwaltungsgerichtshof München (VGH München). (2021). Urteil zur Ausübung heilkundlicher Tätigkeiten durch Notfallsanitäter (Az.: 21 BV 20.2450). | Weinert, F. E. (2001). Concept of competence: A conceptual clarification. In D. S. Rychen & L. H. Salganik (Eds.), *Defining and selecting key competencies* (pp. 45–66). Hogrefe & Huber.                    | Wirtz, M. A. (Hrsg.). (2020). *Dorsch – Lexikon der Psychologie: Denken, Kreativität, Problem*. Hogrefe.                                           |
+|                                                                                                                                                                                       |                                                                                                                                                                                                               |                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Arnold, R. (2010). *Systemische Berufsbildung: Kompetenzentwicklung im Kontext von Arbeit, Technik und Bildung*. Schneider Verlag Hohengehren.                                        | Arn, C., & Munsch, J.-P. (2022). Entwicklungsorientierung: Paradigmenwechsel im Bildungsdiskurs. In H. Burk & B. Stalder (Hrsg.), *Professionalisierung in der beruflichen Bildung*. Beltz Juventa.           | Bateson, G. (1972). *Steps to an ecology of mind*. Chandler.                                                                                       |
+| Bendel, P. D. O. (2021). Definition: VUCA. In *Gabler Wirtschaftslexikon*. Springer.                                                                                                  | Erpenbeck, J., & Rosenstiel, L. v. (Hrsg.). (2007). *Handbuch Kompetenzmessung*. Schäffer-Poeschel.                                                                                                           | Erpenbeck, J., & Sauter, W. (2019). *Stoppt die Kompetenzkatastrophe!: Wege in eine neue Bildung*. Springer.                                       |
+| Grüning, D. J., & Lechner, C. M. (2022). 5DCR – Die Fünf-Dimensionen-Neugierskala. In *ZIS – Zentrale Informationsstelle sozialer Indikatoren*.                                       | Hagemann, V. (2011). *Trainingsentwicklung für High Responsibility Teams*. Universität Duisburg-Essen.                                                                                                        | Hanisch, J. (2020). *Notfallsanitäter – Systemische Interventionskompetenz in dynamischen Einsatzlagen*. GRIN Verlag.                              |
+| Hanisch, J. (2023). _Agiles Lernen zur Kompetenzentwicklung für High Responsibility Teams. Wie agiles Lernen die Ausbildung im Rettungsdienst optimieren kann_. GRIN Publishing GmbH. | Kauffeld, S. (2021). Konstruktion und Überprüfung des Kompetenz-Reflexions-Inventars (KRI). *Gruppe. Interaktion. Organisation. Zeitschrift für Angewandte Organisationspsychologie (GIO)*, *52*(2), 289–310. | Klieme, E., Hartig, J., & Rauch, D. (2003). *Kompetenzmodelle zur Entwicklung von Bildungsstandards*. Bundesministerium für Bildung und Forschung. |
+| Luhmann, N. (1984). *Soziale Systeme: Grundriß einer allgemeinen Theorie*. Suhrkamp.                                                                                                  | Mertens, D., & Erpenbeck, R. (1997). *Die Kompetenz des Managements: Erfolgreich führen durch persönliche, soziale, fachliche und methodische Kompetenzen*. Moderne Industrie.                                | Simon, F. B. (2001). *Einführung in die systemische Organisationstheorie*. Carl-Auer Verlag.                                                       |
+| Verwaltungsgerichtshof München (VGH München). (2021). Urteil zur Ausübung heilkundlicher Tätigkeiten durch Notfallsanitäter (Az.: 21 BV 20.2450).                                     | Weinert, F. E. (2001). Concept of competence: A conceptual clarification. In D. S. Rychen & L. H. Salganik (Eds.), *Defining and selecting key competencies* (pp. 45–66). Hogrefe & Huber.                    | Wirtz, M. A. (Hrsg.). (2020). *Dorsch – Lexikon der Psychologie: Denken, Kreativität, Problem*. Hogrefe.                                           |
 
 ---
 
