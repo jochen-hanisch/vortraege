@@ -17,7 +17,7 @@ tags:
 GPT: false
 ---
 
-created: 13.4.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/vortraege): 30.4.2025 | [publishd](https://zenodo.org/records/15384253): 30.4. 2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Hinweise]]
+created: 13.4.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/vortraege): 30.4.2025 | [publishd](https://zenodo.org/records/15384253): 30.4. 2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
 
 # Ringvorlesung Rettungswissenschaften 2025
 
