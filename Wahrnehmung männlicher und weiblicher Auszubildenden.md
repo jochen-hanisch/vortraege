@@ -19,7 +19,13 @@ created: 20.2.2026 | [updated](https://github.com/jochen-hanisch/vortraege/): 20
 
 Vielen Dank für die Gelegenheit zum Vortragen meiner Gedanken an:
 
-[HSD Hochschule Döpfer GmbH](https://www.hs-doepfer.de/events/ringvorlesung-rettungswissenschaften-2025) | [Fliedner Fachhochschule gGmbH](https://www.fliedner-fachhochschule.de/offene-ringvorlesung-rettungswissenschaft/)
+[HSD Hochschule Döpfer GmbH](https://www.hs-doepfer.de/events/ringvorlesung-rettungswissenschaften-2026) | [Fliedner Fachhochschule gGmbH](https://www.fliedner-fachhochschule.de/offene-ringvorlesung-rettungswissenschaft/)
+
+---
+
+### Abstrakt
+
+> [!abstract] Der Vortrag beleuchtet geschlechtsspezifische Unterschiede in der Wahrnehmung und im Umgang von Auszubildenden mit pädiatrischen Patient:innen. Auf Basis empirischer Befunde wird aufgezeigt, wie Aufmerksamkeit, Einschätzung und Handlungsfokus variieren können – und welche Bedeutung dies für Kommunikation, Sicherheit und Versorgungsqualität hat. Der Beitrag lädt dazu ein, eigene Wahrnehmungsmuster zu reflektieren und daraus Impulse für Ausbildung und Praxis im Rettungsdienst abzuleiten.
 
 ---
 
@@ -30,4 +36,5 @@ einfügen
 ```
 
 ---
+
 
