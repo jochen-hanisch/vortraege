@@ -263,7 +263,7 @@ Systemisch-konstruktivistisch ist Absicht oder Ziel irrelevant (Wirkungsorientie
 
 ### Kompetenzdefinition High Responsibility Teams
 
->„Kompetenz im Kontext von High Responsibility Teams ist die individuelle Bereitschaft, Operationen auf ausbildungsrechtlichen Grundlagen zu planen, deren Wirkung zu angemessenem und brauchbarem Handeln führt, um Transformationsbarrieren vom unerwünschten zum erwünschten Zustand zu überwinden.“ (Hanisch, 2023)
+> [!success] „Kompetenz im Kontext von High Responsibility Teams ist die individuelle Bereitschaft, Operationen auf ausbildungsrechtlichen Grundlagen zu planen, deren Wirkung zu angemessenem und brauchbarem Handeln führt, um Transformationsbarrieren vom unerwünschten zum erwünschten Zustand zu überwinden.“ (Hanisch, 2023)
 
 **Prämissen**
 
