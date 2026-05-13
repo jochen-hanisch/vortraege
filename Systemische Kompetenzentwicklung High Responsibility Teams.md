@@ -3,7 +3,7 @@ author: Jochen Hanisch
 title: "Systemische Kompetenzentwicklung für High Responsibility Teams: Eine fundierte Analyse der theoretischen und praktischen Aspekte von Kompetenzentwicklung in dynamischen Arbeitsumgebungen"
 date: 2025-04-13
 updated: 2025-04-30
-publish: true
+publish: false
 publishd: 2025-04-30
 tags:
   - "#systemtheorie"
@@ -17,7 +17,6 @@ tags:
 GPT: false
 ---
 
-created: 13.4.2025 | [updated](https://git.jochen-hanisch.de/jochen-hanisch/vortraege): 30.4.2025 | [publishd](https://zenodo.org/records/15384253): 30.4. 2025 | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Allgemein beruflich/Webseite/Metadaten/Hinweise]]
 
 # Ringvorlesung Rettungswissenschaften 2025
 

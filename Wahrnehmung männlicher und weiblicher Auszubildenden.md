@@ -9,7 +9,6 @@ tags:
 GPT: false
 ---
 
-created: 20.2.2026 | [updated](https://github.com/jochen-hanisch/vortraege/): 20.2.2026 | [publishd](https://zenodo.org/records/):  | [Austausch](https://lernen.jochen-hanisch.de/course/view.php?id=4) | [[Hinweise]]
 
 **Wahrnehmung von männlichen und weiblichen Auszubildenden im Umgang mit pädiatrischen Patient:innen** (Hanisch, 2026)
 
