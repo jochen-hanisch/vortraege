@@ -3,8 +3,8 @@ author: Jochen Hanisch-Johannsen
 title: Eye-Tracking-Visualisierungen zur Aufmerksamkeitsverteilung von Notfallsanitäter-Auszubildenden in einem pädiatrischen Gewalt-Szenario
 Repository:
 Discussion:
-Publication: https://zenodo.org/records/18776839
-Version: https://zenodo.org/records/18776839
+Publication:
+Version:
 created: 2026-02-20
 updated: 2026-05-25
 publish: false
@@ -67,8 +67,7 @@ Sprechspur:
 - sichtbar im Bild: Rettungsdienstkongress / MediLearn · Dr. med. Dejan Vlajnic
 - Zustimmung: Christian Weier · Dr. med. Dejan Vlajnic
 - sagen: Ich stelle diese Offenlegung voran, weil wir mit einem konkreten Bild arbeiten.
-- DOI: https://doi.org/10.5281/zenodo.18776839
-- merken: öffentliche Kommunikation zum Datensatz erst nach dem Vortrag am 27.05.2026
+- merken: Der Vortrag erhält eine eigene DOI; der Bilddatensatz ist ein separates Artefakt.
 -->
 
 ---
@@ -97,7 +96,7 @@ Sprechspur:
 - Impulse: Was fällt zuerst auf? · Wo bleibt der Blick hängen? · Welche Lage entsteht? · Was müsste im Team ausgesprochen werden?
 - Material: reiner Stimulus F3-S3
 - Herkunft: Eye-Tracking-Versuch der Promotion
-- Quelle: Hanisch-Johannsen (2026), Zenodo, DOI 10.5281/zenodo.18776839
+- Quelle: Hanisch-Johannsen (2026), Eye-Tracking-Datensatz der Promotion
 - Funktion: Wahrnehmung vor Daten und Begriffen
 -->
 
@@ -136,7 +135,7 @@ Sprechspur:
 - zuerst: wirken lassen
 - achten auf: warme/rote Areale im Videobeispiel · kindbezogener Bildraum
 - Publikumsfrage: Wohin wandert visuelles Gewicht?
-- Quelle: Hanisch-Johannsen (2026), Zenodo
+- Quelle: Hanisch-Johannsen (2026), Eye-Tracking-Datensatz der Promotion
 -->
 
 ---
@@ -150,7 +149,7 @@ Sprechspur:
 - achten auf: Bewegung der roten Areale
 - Arbeitsbeobachtung: weibliche Gesamtspur mit stärkerer roter Verdichtung im kindbezogenen Wahrnehmungsareal
 - Reihenfolge: Sichtung · Kennzeichen · AOI · Zahlen
-- Quelle: Hanisch-Johannsen (2026), Zenodo
+- Quelle: Hanisch-Johannsen (2026), Eye-Tracking-Datensatz der Promotion
 -->
 
 ---
@@ -321,7 +320,7 @@ Sprechspur:
 - zuerst: wirken lassen
 - achten auf: sichtbare/verdeckte Bereiche
 - Vergleich vorbereiten: Breite der Sichtbarkeit im Videofenster und kindbezogenen Bereich
-- Quelle: Hanisch-Johannsen (2026), Zenodo
+- Quelle: Hanisch-Johannsen (2026), Eye-Tracking-Datensatz der Promotion
 -->
 
 ---
@@ -691,7 +690,7 @@ Sprechspur:
 | After Action Review | Villado (2008) |
 | High-Responsibility-Teams / Team Resource Management | Kluge, Hagemann & Ritzmann (2011); Hagemann (2011); Hagemann & Kluge (2013) |
 | Debriefing als verwandter Hintergrund | Fanning & Gaba (2007); Grande & Kolbe (2024) |
-| Bilddaten | Hanisch-Johannsen (2026), Zenodo (https://doi.org/10.5281/zenodo.18776839) |
+| Bilddaten | Hanisch-Johannsen (2026), Eye-Tracking-Datensatz der Promotion |
 
 <!--
 Sprechspur:
@@ -703,7 +702,7 @@ Sprechspur:
 - AAR: Villado (2008), The After-Action Review Training Approach
 - HRT/TRM: Kluge, Hagemann & Ritzmann (2011) · Hagemann (2011) · Kluge & Hagemann (2013), DOI 10.1504/IJHFE.2013.057617
 - Debriefing-Hintergrund: Fanning & Gaba (2007) · Grande & Kolbe (2024)
-- Bilddaten: Hanisch-Johannsen (2026), Zenodo
+- Bilddaten: Hanisch-Johannsen (2026), Eye-Tracking-Datensatz der Promotion
 - Schlussgedanke: unterschiedlich organisierte Wahrnehmung gemeinsam handlungsfähig machen
 -->
 
