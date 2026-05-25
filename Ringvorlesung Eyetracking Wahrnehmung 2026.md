@@ -17,6 +17,26 @@ tags: []
 marp: true
 theme: hugo-ci
 paginate: true
+style: |
+  section.image-slide {
+    padding: 18px 42px 34px 58px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  section.image-slide p {
+    max-width: none;
+    margin: 0;
+    line-height: 0;
+  }
+  section.image-slide img {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 668px;
+    object-fit: contain;
+  }
 GPT: false
 ---
 
@@ -87,7 +107,9 @@ Sprechspur:
 
 ---
 
-![bg contain](Praesentationsbilder/F3-S3-Stimulus.png)
+<!-- _class: image-slide -->
+
+![](</Users/jochenhanisch-johannsen/Documents/Praxis/Fliedner Fachhochschule Düsseldorf/Ringvorlesungen/Praesentationsbilder/F3-S3-Stimulus.png>)
 
 <!--
 Sprechspur:
@@ -127,7 +149,9 @@ Sprechspur:
 
 ---
 
-![bg contain](Praesentationsbilder/F3-S3-Heatmap-weiblich.png)
+<!-- _class: image-slide -->
+
+![](</Users/jochenhanisch-johannsen/Documents/Praxis/Fliedner Fachhochschule Düsseldorf/Ringvorlesungen/Praesentationsbilder/F3-S3-Heatmap-weiblich.png>)
 
 <!--
 Sprechspur:
@@ -140,7 +164,9 @@ Sprechspur:
 
 ---
 
-![bg contain](Praesentationsbilder/F3-S3-Heatmap-maennlich.png)
+<!-- _class: image-slide -->
+
+![](</Users/jochenhanisch-johannsen/Documents/Praxis/Fliedner Fachhochschule Düsseldorf/Ringvorlesungen/Praesentationsbilder/F3-S3-Heatmap-maennlich.png>)
 
 <!--
 Sprechspur:
@@ -181,7 +207,9 @@ Sprechspur:
 
 ---
 
-![bg contain](AOI-F3-S3/AOI-F3-S3-Gesamt-weiblich-Gesicht-Umgebung.png)
+<!-- _class: image-slide -->
+
+![](</Users/jochenhanisch-johannsen/Documents/Praxis/Fliedner Fachhochschule Düsseldorf/Ringvorlesungen/AOI-F3-S3/AOI-F3-S3-Gesamt-weiblich-Gesicht-Umgebung.png>)
 
 <!--
 Sprechspur:
@@ -195,7 +223,9 @@ Sprechspur:
 
 ---
 
-![bg contain](AOI-F3-S3/AOI-F3-S3-Gesamt-männlich-Gesicht-Umgebung.png)
+<!-- _class: image-slide -->
+
+![](</Users/jochenhanisch-johannsen/Documents/Praxis/Fliedner Fachhochschule Düsseldorf/Ringvorlesungen/AOI-F3-S3/AOI-F3-S3-Gesamt-männlich-Gesicht-Umgebung.png>)
 
 <!--
 Sprechspur:
@@ -276,7 +306,9 @@ Sprechspur:
 
 ---
 
-![bg contain](Praesentationsbilder/F3-S3-Stimulus.png)
+<!-- _class: image-slide -->
+
+![](</Users/jochenhanisch-johannsen/Documents/Praxis/Fliedner Fachhochschule Düsseldorf/Ringvorlesungen/Praesentationsbilder/F3-S3-Stimulus.png>)
 
 <!--
 Sprechspur:
@@ -312,7 +344,9 @@ Sprechspur:
 
 ---
 
-![bg contain](Praesentationsbilder/F3-S3-FogView-weiblich.png)
+<!-- _class: image-slide -->
+
+![](</Users/jochenhanisch-johannsen/Documents/Praxis/Fliedner Fachhochschule Düsseldorf/Ringvorlesungen/Praesentationsbilder/F3-S3-FogView-weiblich.png>)
 
 <!--
 Sprechspur:
@@ -325,7 +359,9 @@ Sprechspur:
 
 ---
 
-![bg contain](Praesentationsbilder/F3-S3-FogView-maennlich.png)
+<!-- _class: image-slide -->
+
+![](</Users/jochenhanisch-johannsen/Documents/Praxis/Fliedner Fachhochschule Düsseldorf/Ringvorlesungen/Praesentationsbilder/F3-S3-FogView-maennlich.png>)
 
 <!--
 Sprechspur:
@@ -358,7 +394,9 @@ Sprechspur:
 
 ---
 
-![bg contain](AOI-F3-S3/AOI-F3-S3-FogView-Gesamt-weiblich-Gesicht-Umgebung.png)
+<!-- _class: image-slide -->
+
+![](</Users/jochenhanisch-johannsen/Documents/Praxis/Fliedner Fachhochschule Düsseldorf/Ringvorlesungen/AOI-F3-S3/AOI-F3-S3-FogView-Gesamt-weiblich-Gesicht-Umgebung.png>)
 
 <!--
 Sprechspur:
@@ -370,7 +408,9 @@ Sprechspur:
 
 ---
 
-![bg contain](AOI-F3-S3/AOI-F3-S3-FogView-Gesamt-männlich-Gesicht-Umgebung.png)
+<!-- _class: image-slide -->
+
+![](</Users/jochenhanisch-johannsen/Documents/Praxis/Fliedner Fachhochschule Düsseldorf/Ringvorlesungen/AOI-F3-S3/AOI-F3-S3-FogView-Gesamt-männlich-Gesicht-Umgebung.png>)
 
 <!--
 Sprechspur:
